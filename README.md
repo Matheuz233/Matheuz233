@@ -17,10 +17,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=d8a52d)
 ![CSS3](https://img.shields.io/badge/css3-282828.svg?style=for-the-badge&logo=css3&logoColor=d8a52d) 
 ![JavaScript](https://img.shields.io/badge/javascript-282828.svg?style=for-the-badge&logo=javascript&logoColor=d8a52d) 
+![ReactJS](https://img.shields.io/badge/-ReactJs-282828?style=for-the-badge&logo=react&logoColor=d8a52d) 
 ![Python](https://img.shields.io/badge/python-282828?style=for-the-badge&logo=python&logoColor=d8a52d)
 ![SASS](https://img.shields.io/badge/SASS-282828.svg?style=for-the-badge&logo=SASS&logoColor=d8a52d)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-282828.svg?style=for-the-badge&logo=bootstrap&logoColor=d8a52d) 
-![MySQL](https://img.shields.io/badge/mysql-282828.svg?style=for-the-badge&logo=mysql&logoColor=d8a52d) 
+![Tailwind](https://img.shields.io/badge/tailwindcss-282828?style=for-the-badge&logo=tailwindcss&logoColor=d8a52d).
 ![Figma](https://img.shields.io/badge/figma-282828.svg?style=for-the-badge&logo=figma&logoColor=d8a52d) 
 ![Canva](https://img.shields.io/badge/Canva-282828.svg?style=for-the-badge&logo=Canva&logoColor=d8a52d)
 
