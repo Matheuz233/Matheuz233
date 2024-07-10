@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/python-282828?style=for-the-badge&logo=python&logoColor=d8a52d)
 ![SASS](https://img.shields.io/badge/SASS-282828.svg?style=for-the-badge&logo=SASS&logoColor=d8a52d)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-282828.svg?style=for-the-badge&logo=bootstrap&logoColor=d8a52d) 
-![Tailwind](https://img.shields.io/badge/tailwindcss-282828?style=for-the-badge&logo=tailwindcss&logoColor=d8a52d).
+![Tailwind](https://img.shields.io/badge/tailwindcss-282828?style=for-the-badge&logo=tailwindcss&logoColor=d8a52d)
 ![Figma](https://img.shields.io/badge/figma-282828.svg?style=for-the-badge&logo=figma&logoColor=d8a52d) 
 ![Canva](https://img.shields.io/badge/Canva-282828.svg?style=for-the-badge&logo=Canva&logoColor=d8a52d)
 
