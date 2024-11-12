@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7EC07C&height=120&section=header" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&pause=1000&color=D8A52D&size=35&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Bem-vindo(a)+ao+perfil+do+Matheuz233)](https://git.io/typing-svg)
 
@@ -29,4 +29,4 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Matheuz233&theme=github-compact&color=8ec07c&hide_border=true&custom_title=Gráfico%20de%20Contribuições%20-%20Matheuz233&point=d8a52d&line=8ec07c&area=true&area_color=8ec07c)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7EC07C&height=120&section=footer" />
